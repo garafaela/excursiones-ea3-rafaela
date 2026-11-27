@@ -1,4 +1,13 @@
 RUTA AUSTRAL EXCURSIONES - PROYECTO BASE EA3 (TRABAJO EN PAREJA)
+
+Estudiante: Gabriella Rafaela - 007D
+Motor BD: MySQL
+Se abrió el script en MySQL y se corre para crear las tablas.
+Se configura la conexión a la BD en ConexionBD.
+Se crea la clase DAO y sus métodos CRUD.
+Se implementa la clase DAO en el controller.
+Se verifica el funcionamiento correcto de la aplicación con datos prueba.
+
 =================================================================
 
 Ejecución: clase cl.duoc.excursiones.Launcher (o mvn javafx:run).
